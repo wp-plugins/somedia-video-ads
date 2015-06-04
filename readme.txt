@@ -39,8 +39,8 @@ Add lead capture forms to your video player
 
 Once your videos are live, the Scalable Video app will report how they are performing in real-time. Performance metrics include play rates, completion rates, minutes watched, social shares, leads captured, device/geographic breakdown and much more.
 
-= Everything’s Done Online: =
-Ordering, creative control, collaboration and screening, plus deployment to YouTube channels and social networks – all done online.
+= Everything's Done Online: =
+Ordering, creative control, collaboration and screening, plus deployment to YouTube channels and social networks - all done online.
 
 = North America-Wide Coverage: =
 Video ad production at any location in North America through our managed workforce.
